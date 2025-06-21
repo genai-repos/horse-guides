@@ -1,5 +1,5 @@
 
-# Guide to Horse Selection for Reined Cow Horse, Versatility Ranch Horse, and Cowboying
+# Guide to Horse Selection for Reined Cow Horse, Versatility Ranch Horse, Cowboying and Family Use
 
 *As of June 21, 2025*
 
