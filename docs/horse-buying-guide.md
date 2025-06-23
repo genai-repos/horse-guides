@@ -264,6 +264,7 @@ Cowboying horses aged 5–10 years with **Two Eyed Jack**, **Peppy San Badger**,
 ## Summary Tables
 
 ### Table 1: Ideal Horse Characteristics
+
 | Characteristic | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying |
 |----------------|--------------------------|----------------------------------------|----------|
 | **Breed** | AQHA, APHA | AQHA, APHA, some Appaloosa/Morgan | AQHA, APHA |
@@ -276,6 +277,7 @@ Cowboying horses aged 5–10 years with **Two Eyed Jack**, **Peppy San Badger**,
 | **Preferences** | Geldings; mares with good temperament; NRCHA experience | All-around; geldings/mares; AQHA VRH/SHTX experience | Geldings; mares if calm; ranch experience |
 
 ### Table 2: Best Places to Look for Buying Horses
+
 | Source | Description | Best For | Location/Contact |
 |--------|-------------|----------|------------------|
 | Ranch World Ads | Classifieds for ranch/performance horses | All disciplines | [https://www.ranchworldads.com](https://www.ranchworldads.com) |
@@ -294,6 +296,7 @@ Cowboying horses aged 5–10 years with **Two Eyed Jack**, **Peppy San Badger**,
 | Return to the Remuda Sale | King Ranch sale with top lines | All disciplines | [https://king-ranch.com](https://king-ranch.com) |
 
 ### Table 3: Key Pedigrees of Horse Legends
+
 | Sire | Key Traits | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
 |------|------------|--------------------------|----------------------------------------|----------|---------------------|
 | Shining Spark | Reining precision, cow sense | Exceptional in herd/rein/cow work | Strong in all events | Suitable with training | Limited, high-energy |

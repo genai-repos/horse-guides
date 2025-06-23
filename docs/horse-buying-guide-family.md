@@ -334,6 +334,7 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 ## Summary Tables
 
 ### Table 1: Ideal Horse Characteristics
+
 | Characteristic | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
 |----------------|--------------------------|----------------------------------------|----------|---------------------|
 | **Breed** | AQHA, APHA | AQHA, APHA, some Appaloosa/Morgan | AQHA, APHA | AQHA, APHA |
@@ -346,6 +347,7 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 | **Preferences** | Geldings; mares with good temperament; NRCHA experience | All-around; geldings/mares; AQHA VRH/SHTX experience | Geldings; mares if calm; ranch experience | Geldings aged 5–10 years, preferably 8–10 for settled temperaments |
 
 ### Table 2: Best Places to Look for Buying Horses
+
 | Source | Description | Best For | Location/Contact |
 |--------|-------------|----------|------------------|
 | Ranch World Ads | Classifieds for ranch/performance horses | All disciplines | [https://www.ranchworldads.com](https://www.ranchworldads.com) |
@@ -364,6 +366,7 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 | Return to the Remuda Sale | King Ranch sale with top lines | All disciplines | [https://king-ranch.com](https://king-ranch.com) |
 
 ### Table 3: Key Pedigrees of Horse Legends
+
 | Sire | Key Traits | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
 |------|------------|--------------------------|----------------------------------------|----------|---------------------|
 | Shining Spark | Reining precision, cow sense | Exceptional in herd/rein/cow work | Strong in all events | Suitable with training | Limited, high-energy |
