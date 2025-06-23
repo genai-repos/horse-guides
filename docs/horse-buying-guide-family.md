@@ -309,21 +309,6 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 - Diamond-McNabb Ranch Horse Sale | Wyoming sale for cowboying, VRH, family use ([https://www.dmhorses.com](https://www.dmhorses.com)).
 - Twombly Performance Horse Sale | Nebraska sale for cowboying, VRH, family use ([https://twomblyhorse.com](https://twomblyhorse.com)).
 
-## Key Pedigrees of Horse Legends
-
-| Sire | Key Traits | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
-|------|------------|--------------------------|----------------------------------------|----------|---------------------|
-| Shining Spark | Reining precision, cow sense | Exceptional in herd/rein/cow work | Strong in all events | Suitable with training | Limited, high-energy |
-| High Brow Cat | Intense cow sense, cutting | Dominant in herd/cow work | Suitable for cutting/cow work | Suitable for cattle work | Limited, high-energy |
-| Peppy San Badger | Cow sense, durability, trainable | Strong in all events | Excels in all events | Excellent for all tasks | Suitable for family use |
-| Colonel Freckles | Cow sense, cow work, trainability | Strong in herd work, cow work, and reining | Versatile across events | Suitable for cattle/roping | Limited, needs calm individuals |
-| Playgun | Cow sense, versatility | Suitable for herd/cow work | Exceptional in cutting/cow work/riding | Suitable for cattle/roping | Limited, high-energy |
-| Not Ruf At All | Reining prowess, cow sense | Exceptional in rein/cow work | Suitable for reining/cow work | Limited, needs training | Not suitable, performance-focused |
-| Paddys Irish Whiskey | Versatility, smooth gaits, easy-going | Suitable for all events | Excels in riding/trail/cow work | Strong for riding/chores | Suitable, calm |
-| Driftwood | Cow sense, endurance, steady | Suitable with training | Strong with training, especially cutting | Excellent for roping/doctoring | Suitable, reliable when mature |
-| Hancock | Ruggedness, stamina, calm | Suitable with training | Strong with training, cow work | Excellent for all tasks | Suitable, dependable |
-| Two Eyed Jack | Versatility, calm, roping | Suitable with training | Strong in riding/cow work/roping | Excellent for roping/doctoring | Highly suitable, gentle |
-
 ## Recommendations for Buyers
 - **Test the Horse**: Verify maneuvers (reining for NRCHA/VRH, cow work for all, roping/doctoring for cowboying, kid-friendliness for family use). Use a trainer.
 - **Pedigree Check**: Confirm cow sense/versatility (e.g., Shining Spark, Peppy San Badger, Driftwood). Prioritize **Two Eyed Jack**, **Peppy San Badger** for kids.

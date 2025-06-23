@@ -1,6 +1,6 @@
 # Guide to Horse Selection for Reined Cow Horse, Versatility Ranch Horse, and Cowboying
 
-*As of June 22, 2025, 08:37 PM MST*
+*As of June 22, 2025, 10:45 PM MST*
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -38,7 +38,6 @@
   - [Events and Networks](#events-and-networks)
   - [Specialized Sales](#specialized-sales)
 - [References](#references)
-- [Key Pedigrees of Horse Legends](#key-pedigrees-of-horse-legends)
 - [Recommendations for Buyers](#recommendations-for-buyers)
 - [Summary Tables](#summary-tables)
   - [Table 1: Ideal Horse Characteristics](#table-1-ideal-horse-characteristics)
@@ -46,7 +45,7 @@
   - [Table 3: Key Pedigrees of Horse Legends](#table-3-key-pedigrees-of-horse-legends)
 
 ## Introduction
-Selecting the right horse for **Reined Cow Horse** (governed by the National Reined Cow Horse Association, [NRCHA](https://www.nrcha.com)), **Versatility Ranch Horse** (governed by organizations like the National Versatility Ranch Horse Association, [NVRHA](https://www.nvrha.org), and affiliates such as the Arizona Versatility Ranch Horse Association, [AZVRHA](https://www.azvrha.com)), and **Cowboying** (practical ranch work involving cattle handling, roping, and chores) is essential for success in these disciplines. Reined Cow Horse focuses on precision and athleticism in three events (herd work, rein work, cow work), rooted in vaquero traditions. Versatility Ranch Horse emphasizes all-around ranch horse utility across six events, including cattle work, reining, riding, trail, and conformation. Cowboying requires a durable, versatile horse for daily ranch tasks like herding, roping, and navigating terrain. This guide outlines ideal horse characteristics, key pedigrees, and the best places to purchase suitable horses, based on information from NRCHA, NVRHA, AZVRHA, and relevant sources. It also evaluates whether cowboying horses can be used for VRH events, focusing on ranch roping and doctoring, with training recommendations.
+Selecting the right horse for **Reined Cow Horse** (governed by the National Reined Cow Horse Association, [NRCHA](https://www.nrcha.com)), **Versatility Ranch Horse** (governed by organizations like the National Versatility Ranch Horse Association, [NVRHA](https://www.nvrha.org), and affiliates such as the Arizona Versatility Ranch Horse Association, [AZVRHA](https://www.azvrha.com)), and **Cowboying** (practical ranch work involving cattle handling, roping, and chores) is essential for success in these disciplines. Reined Cow Horse focuses on precision and athleticism in three events (herd work, rein work, cow work), rooted in vaquero traditions. Versatility Ranch Horse emphasizes all-around ranch horse utility across six events, including cattle work, reining, riding, trail, and conformation. Cowboying requires a durable, versatile horse for daily ranch tasks like herding, roping, and navigating terrain. This guide outlines ideal horse characteristics, key pedigrees (see [Table 3](#table-3-key-pedigrees-of-horse-legends)), and the best places to purchase suitable horses, based on information from NRCHA, NVRHA, AZVRHA, and relevant sources. It also evaluates whether cowboying horses can be used for VRH events, focusing on ranch roping and doctoring, with training recommendations.
 
 ## Horse Characteristics for Reined Cow Horse (NRCHA)
 
@@ -55,7 +54,7 @@ Selecting the right horse for **Reined Cow Horse** (governed by the National Rei
 - Favored for agility, strength, and innate cow sense, critical for NRCHA events.
 
 ### Bloodlines
-- Seek sires like **Shining Spark**, **High Brow Cat**, **Peppy San Badger**, **Colonel Freckles**, or **Not Ruf At All**.
+- Seek sires like **Shining Spark**, **High Brow Cat**, **Peppy San Badger**, **Colonel Freckles**, or **Not Ruf At All** (see [Table 3](#table-3-key-pedigrees-of-horse-legends)).
 - Known for exceptional athleticism and cow-working ability.
 
 ### Physical Traits
@@ -84,7 +83,7 @@ Selecting the right horse for **Reined Cow Horse** (governed by the National Rei
 - AQHA dominates due to ranch heritage and versatility.
 
 ### Bloodlines
-- Sires like **Peppy San Badger**, **Shining Spark**, **Playgun**, **Colonel Freckles**, or **Paddys Irish Whiskey** valued for cow sense and versatility.
+- Sires like **Peppy San Badger**, **Shining Spark**, **Playgun**, **Colonel Freckles**, or **Paddys Irish Whiskey** valued for cow sense and versatility (see [Table 3](#table-3-key-pedigrees-of-horse-legends)).
 - Foundation-bred Quarter Horses popular for durability.
 
 ### Physical Traits
@@ -113,7 +112,7 @@ Selecting the right horse for **Reined Cow Horse** (governed by the National Rei
 - AQHA preferred for durability, cow sense, and ranch work suitability.
 
 ### Bloodlines
-- Sires like **Driftwood**, **Hancock**, **Two Eyed Jack**, **Peppy San Badger**, or **King** prized for tough, reliable ranch horses.
+- Sires like **Driftwood**, **Hancock**, **Two Eyed Jack**, **Peppy San Badger**, or **King** prized for tough, reliable ranch horses (see [Table 3](#table-3-key-pedigrees-of-horse-legends)).
 - Foundation-bred Quarter Horses favored for ruggedness.
 
 ### Physical Traits
@@ -137,7 +136,7 @@ Selecting the right horse for **Reined Cow Horse** (governed by the National Rei
 
 ## Overlap Between Disciplines
 - **Common Breeds**: AQHA and APHA ideal for all disciplines due to athleticism, cow sense, durability.
-- **Bloodlines**: **Peppy San Badger**, **Shining Spark**, **Colonel Freckles** common in NRCHA/VRH; **Driftwood**, **Hancock**, **Peppy San Badger** prevalent in cowboying.
+- **Bloodlines**: **Peppy San Badger**, **Shining Spark**, **Colonel Freckles** common in NRCHA/VRH; **Driftwood**, **Hancock**, **Two Eyed Jack** prevalent in cowboying (see [Table 3](#table-3-key-pedigrees-of-horse-legends)).
 - **Traits**: All require calm, trainable temperament and cow sense. NRCHA emphasizes precision, VRH focuses on all-around utility, cowboying prioritizes durability and practical skills.
 - **Preference**: Geldings favored for consistency; mares with good attitudes competitive. Cowboying horses may need less formal training.
 
@@ -145,7 +144,7 @@ Selecting the right horse for **Reined Cow Horse** (governed by the National Rei
 Cowboying horses, bred for practical ranch work such as cattle handling, roping, and navigating rugged terrain, can be adapted for **Versatility Ranch Horse (VRH)** events (governed by [NVRHA](https://www.nvrha.org) and [AZVRHA](https://www.azvrha.com)) with targeted training. This section evaluates the compatibility of cowboying horses aged **5–10 years** for VRH’s six events (ranch cutting, reining, working ranch horse, riding, trail, conformation), focusing on their existing skills, temperament, and the additional training required to meet competitive needs.
 
 ### Compatibility with VRH Events
-Cowboying horses, typically American Quarter Horses (AQHA) with bloodlines like **Driftwood**, **Hancock**, **Two Eyed Jack**, or **Peppy San Badger**, possess a strong foundation for VRH due to their practical ranch experience. Below is an analysis of their fit for each VRH event:
+Cowboying horses, typically American Quarter Horses (AQHA) with bloodlines like **Driftwood**, **Hancock**, **Two Eyed Jack**, or **Peppy San Badger** (see [Table 3](#table-3-key-pedigrees-of-horse-legends)), possess a strong foundation for VRH due to their practical ranch experience. Below is an analysis of their fit for each VRH event:
 
 - **Ranch Cutting**: Their experience in herding and sorting cattle provides natural cow sense, ideal for ranch cutting. Minimal training is needed to refine precise cutting maneuvers for competitive scoring.
 - **Working Ranch Horse**: Skills in herding, sorting, and holding cattle align with boxing and some fencing requirements. Horses used for ranch roping are well-suited for higher divisions (e.g., Open) that include roping, needing little additional training for these tasks. Doctoring experience enhances cow control, critical for competitive performance.
@@ -239,21 +238,6 @@ Cowboying horses aged 5–10 years with **Two Eyed Jack**, **Peppy San Badger**,
 - Legacy Ranch Horse Sale | Arizona sale for cowboying/VRH horses ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)).
 - Diamond-McNabb Ranch Horse Sale | Wyoming sale for cowboying, VRH, NRCHA ([https://www.dmhorses.com](https://www.dmhorses.com)).
 - Twombly Performance Horse Sale | Nebraska sale for cowboying, VRH, NRCHA ([https://twomblyhorse.com](https://twomblyhorse.com)).
-
-## Key Pedigrees of Horse Legends
-
-| Sire | Key Traits | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
-|------|------------|--------------------------|----------------------------------------|----------|---------------------|
-| Shining Spark | Reining precision, cow sense | Exceptional in herd/rein/cow work | Strong in all events | Suitable with training | Limited, high-energy |
-| High Brow Cat | Intense cow sense, cutting | Dominant in herd/cow work | Suitable for cutting/cow work | Suitable for cattle work | Limited, high-energy |
-| Peppy San Badger | Cow sense, durability, trainable | Strong in all events | Excels in all events | Excellent for all tasks | Suitable for family use |
-| Colonel Freckles | Cow sense, cow work, trainability | Strong in herd work, cow work, and reining | Versatile across events | Suitable for cattle/roping | Limited, needs calm individuals |
-| Playgun | Cow sense, versatility | Suitable for herd/cow work | Exceptional in cutting/cow work/riding | Suitable for cattle/roping | Limited, high-energy |
-| Not Ruf At All | Reining prowess, cow sense | Exceptional in rein/cow work | Suitable for reining/cow work | Limited, needs training | Not suitable, performance-focused |
-| Paddys Irish Whiskey | Versatility, smooth gaits, easy-going | Suitable for all events | Excels in riding/trail/cow work | Strong for riding/chores | Suitable, calm |
-| Driftwood | Cow sense, endurance, steady | Suitable with training | Strong with training, especially cutting | Excellent for roping/doctoring | Suitable, reliable when mature |
-| Hancock | Ruggedness, stamina, calm | Suitable with training | Strong with training, cow work | Excellent for all tasks | Suitable, dependable |
-| Two Eyed Jack | Versatility, calm, roping | Suitable with training | Strong in riding/cow work/roping | Excellent for roping/doctoring | Highly suitable, gentle |
 
 ## Recommendations for Buyers
 - **Test the Horse**: Verify maneuvers (reining for NRCHA/VRH, cow work for all, roping/doctoring for cowboying). Use a trainer.
