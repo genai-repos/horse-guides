@@ -1,7 +1,6 @@
-
 # Guide to Horse Selection for Reined Cow Horse, Versatility Ranch Horse, Cowboying, and Family Use with Kids
 
-*As of June 21, 2025, 11:21 AM MST*
+*As of June 22, 2025, 07:57 PM MST*
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -209,12 +208,12 @@ To transition cowboying horses aged 5–10 years to VRH events and ensure family
 
 ### Recommended Sources
 The following sources, listed in [Table 2](#table-2-best-places-to-look-for-buying-horses), offer cowboying horses aged 5–10 years suitable for VRH and family use:
-- **Legacy Ranch Horse Sale** ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)): Annual September sale in Prescott, Arizona, featuring AQHA geldings with **Driftwood**, **Two Eyed Jack**, or **Peppy San Badger** bloodlines. Horses aged 5–10 years excel in cowboying (roping, doctoring), are strong for VRH (Novice/Limited), and can be gentle for kids with training. Contact: 520-360-9524.
+- **Legacy Ranch Horse Sale** ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)): Annual September sale in Prescott, Arizona, featuring AQHA geldings with **Driftwood**, **Two Eyed Jack**, or **Peppy San Badger** bloodlines. Horses aged 5–10 years excel in cowboying (roping, doctoring), are strong for VRH (Novice/Limited), and can be gentle for kids with training. Contact: 520-360-7300.
 - **High Plains Ranchers & Breeders Association (HPRBA)** ([https://www.hprba.com](https://www.hprba.com)): Annual June sale in Amarillo, Texas, offering AQHA ranch horses with **Peppy San Badger**, **Driftwood**, or **Hancock** lines. Horses aged 5–10 years are suitable for cowboying, VRH, and family use with careful selection for calm temperaments. Contact: 806-674-7337.
-- **K4 Ranches (via Legacy Ranch Horse Sale)** ([https://k4ranches.com](https://k4ranches.com)): Arizona breeder supplying Legacy with AQHA geldings raised for ranch work, ideal for cowboying, VRH, and family use with appropriate training. Contact: 520-360-9524.
+- **K4 Ranches (via Diamond A Ranch)** ([https://k4ranches.com](https://k4ranches.com)): Arizona breeder supplying Legacy with AQHA geldings raised for ranch work, ideal for cowboying, VRH, and family use with appropriate training. Contact: 520-360-7300.
 
 ### Considerations for Selection
-- **Testing**: Verify cowboying skills (roping, doctoring, cattle work) during sale previews and assess VRH potential (cow sense, maneuverability). For family use, test tolerance for kids’ erratic behavior (e.g., sudden pulls, noises), ideally with a trainer’s evaluation, especially for 5–7-year-olds.
+- **Testing**: Verify cowboying skills (roping, doctoring, cattle work) during sale preview and assess VRH potential (cow sense, maneuverability). For family use, test tolerance for kids’ erratic behavior (e.g., sudden pulls, noises), ideally with a trainer’s evaluation, especially for 5–7-year-olds.
 - **Pedigree**: Prioritize **Two Eyed Jack**, **Peppy San Badger**, **Driftwood**, **Paddys Irish Whiskey**, or **Hancock** bloodlines for calm temperaments suitable for VRH and kids (per [Table 3](#table-3-key-pedigrees-of-horse-legends)). Avoid high-energy lines like **Metallic Cat** unless proven gentle.
 - **Age**: Focus on 8–10-year-olds for more settled temperaments, requiring less training for family use. 5–7-year-olds are viable but may need extended desensitization to ensure kid-friendliness.
 - **Budget**: Cowboying horses aged 5–10 years suitable for VRH and family use typically cost $5,000–$15,000, fitting the guide’s cowboying/VRH budget. Prices may increase for horses with VRH potential or proven kid-friendliness.
@@ -222,15 +221,15 @@ The following sources, listed in [Table 2](#table-2-best-places-to-look-for-buyi
 - **Transition Timeline**: Plan for 8–14 months of training to achieve VRH Novice/Limited competence and family suitability, with younger horses (5–7 years) requiring longer to ensure consistency.
 
 ### Conclusion
-Cowboying horses aged 5–10 years with **Two Eyed Jack**, **Peppy San Badger**, **Driftwood**, or **Hancock** bloodlines are well-suited for **Versatility Ranch Horse** events and **family use with kids** when properly selected and trained. Their ranch skills (cattle work, roping, doctoring, terrain navigation) support ranch cutting, working ranch horse, trail, and riding classes, requiring 8–14 months of training for reining, cow work refinement, and show polish to compete in VRH Novice/Limited divisions. With targeted desensitization, these horses can become reliable “babysitter” mounts for kids’ trail riding or light lessons, especially 8–10-year-olds with mature temperaments. Sources like **Legacy Ranch Horse Sale** and **HPRBA** offer suitable AQHA geldings, but buyers must rigorously test for kid-friendliness and VRH potential, prioritizing calm pedigrees and sound health.
+Cowboying horses aged 5–10 years with **Two Eyed Jack**, **Peppy San Badger**, **Driftwood**, or **Hancock** bloodlines are well-suited for **Versatility Ranch Horse** events and **family use with kids** when properly selected and trained. Their ranch skills (cattle work, roping, doctoring, terrain navigation) support ranch cutting, working ranch horse, trail, and riding classes, requiring 8–14 months of training for reining, cow work refinement, and show polish to compete in VRH at novice level. With targeted desensitization, these horses can become reliable “babysitter” mounts for kids’ trail riding or light lessons, especially 8–10-year-olds with mature temperaments. Sources like **Legacy Ranch Horse Sale** and **HPRBA** offer suitable AQHA geldings, but buyers must rigorously test for kid-friendliness and VRH potential, prioritizing calm pedigrees and sound health.
 
 ## Horses Suitable for Family Use with Kids
 Some horses can serve dual purposes, excelling in **Reined Cow Horse (NRCHA)**, **Versatility Ranch Horse (NVRHA/AZVRHA)**, **Cowboying**, and being safe for family use with kids. This section outlines requirements, recommended bloodlines, and sources for such horses, ensuring they are beginner-safe while meeting competitive or practical needs.
 
 ### Requirements for Family-Friendly Horses
 In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses should have:
-- **Temperament**: Exceptionally calm, patient, forgiving, with a “babysitter” disposition.
-- **Training**: Well-broke, extensively handled, desensitized to varied environments.
+- **Temperament**: Exceptionally calm, patient, forgiving, with a “tolerant” disposition.
+- **Training**: Well-trained, extensively handled, desensitized to varied environments.
 - **Versatility**: Capable of low-intensity trail riding or light lessons for kids, alongside competitive/practical tasks.
 - **Conformation and Size**: Balanced, sturdy, 14.2–15.2 hands; smaller sizes easier for kids.
 - **Age**: 5–10 years, preferably 8–10 for settled temperaments, balancing maturity and longevity.
@@ -238,16 +237,18 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 
 ### Recommended Bloodlines
 - **Two Eyed Jack**: Calm, willing, versatile; ideal for kids’ trail/lessons, VRH (riding, cow work, roping), cowboying (roping, doctoring); moderate NRCHA suitability with training.
-- **Peppy San Badger**: Trainable, calm in ranch lines; suitable for kids, excellent for VRH (all events), cowboying (cattle work, roping), NRCHA with training.
+- **Peppy San Badger**: Trainable, calm in ranch lines; suitable for kids, excellent for VRH (all events), cowboying (all tasks), NRCHA with training.
 - **Driftwood**: Tough, steady; suitable for kids’ trail/tasks, cowboying (roping, doctoring), VRH (cutting, trail) with training.
 - **Paddys Irish Whiskey**: Smooth-gaited, easy-going; suitable for kids’ trail/lessons, VRH (riding, trail, cow work), cowboying; moderate NRCHA suitability.
 - **Hancock**: Rugged, calm; suitable for kids’ trail, cowboying (all tasks), VRH (cow work, trail) with training.
 - Bloodlines like **Shining Spark**, **High Brow Cat**, **Metallic Cat**, **Colonel Freckles**, **Playgun** are less ideal for kids unless extensively trained.
 
 ### Recommended Sources
-- **K4 Ranches (via Legacy Ranch Horse Sale)** ([https://k4ranches.com](https://k4ranches.com)): Arizona breeder offering AQHA geldings (5–10 years) with **Driftwood**, **Two Eyed Jack**, **Peppy San Badger** lines, suitable for cowboying, VRH (Novice/Limited), NRCHA with training, and kids with calm dispositions. Contact: 520-360-9524.
-- **Legacy Ranch Horse Sale** ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)): September sale in Prescott, Arizona, with AQHA geldings (5–10 years) from K4 Ranches/Diamond A Ranch, suitable for cowboying, VRH, NRCHA with training, and kids. Contact: 520-360-9524.
+- **K4 Ranches (via Diamond A Ranch)** ([https://k4ranches.com](https://k4ranches.com)): Arizona breeder offering AQHA geldings (5–10 years) with **Driftwood**, **Two Eyed Jack**, **Peppy San Badger** lines, suitable for cowboying, VRH (Novice/Limited), NRCHA with training, and kids with calm dispositions. Contact: 520-360-7300.
+- **Legacy Ranch Horse Sale** ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)): September sale in Prescott, Arizona, with AQHA geldings (5–10 years) from K4 Ranches/Diamond A Ranch, suitable for cowboying, VRH, NRCHA with training, and kids. Contact: 520-360-7300.
 - **High Plains Ranchers & Breeders Association (HPRBA)** ([https://www.hprba.com](https://www.hprba.com)): June sale in Amarillo, Texas, with AQHA horses (5–10 years) with **Peppy San Badger**, **Driftwood**, **Hancock** lines, suitable for cowboying, VRH, NRCHA with training, and kids with careful selection. Contact: 806-674-7337.
+- **Diamond-McNabb Ranch Horse Sale** ([https://www.dmhorses.com](https://www.dmhorses.com)): June sale in Douglas, Wyoming, with AQHA geldings (5–10 years) with **Peppy San Badger**, **Two Eyed Jack**, **High Brow Cat** lines, suitable for cowboying, VRH, NRCHA with training, and kids with calm dispositions. Contact: 307-254-7260.
+- **Twombly Performance Horse Sale** ([https://twomblyhorse.com](https://twomblyhorse.com)): June/November sales in Nebraska, with AQHA geldings (5–10 years) with likely **Peppy San Badger**, **Two Eyed Jack** lines, suitable for cowboying, VRH, and kids with gentle temperaments. Contact via website.
 
 ### Considerations for Selection
 - **Testing**: Ensure kid-friendliness, confirming tolerance for erratic movements/noises. Work with a trainer, especially for 5–7-year-olds.
@@ -276,43 +277,45 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 - **Stock Horse of Texas** ([https://stockhorsetexas.org](https://stockhorsetexas.org)): Texas events for ranch horses.
 
 ### Specialized Sales
-- **Return to the Remuda Sale (King Ranch)**: Annual sale with **Peppy San Badger**, **Driftwood** lines ([https://king-ranch.com](https://king-ranch.com)).
-- **Legacy Ranch Horse Sale**: September sale in Prescott, Arizona, with AQHA horses from K4 Ranches/Diamond A Ranch, suitable for cowboying, VRH, NRCHA with training, and family use. Contact: 520-360-9524 ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)).
-- **High Plains Ranchers & Breeders Association (HPRBA)**: June sale in Amarillo, Texas, with AQHA horses for cowboying, VRH, NRCHA with training, and family use. Contact: 806-674-7337 ([https://www.hprba.com](https://www.hprba.com)).
+- **High Plains Ranchers & Breeders Association (HPRBA)**: Texas sale for cowboying, VRH, some NRCHA, family use ([https://www.hprba.com](https://www.hprba.com), 806-674-7337).
+- **Diamond-McNabb Ranch Horse Sale** : June/September sales in Douglas, Wyoming, offering AQHA horses (5–10 years) with Peppy San Badger, Two Eyed Jack, High Brow Cat, bloodlines for cowboying, VRH, NRCHA with training, and family use ([https://www.dmhorses.com](https://www.dmhorses.com), 307-254-7260).
+- **Legacy Ranch Horse Sale**: Arizona sale for cowboying, VRH, some NRCHA, family use ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com), 520-360-7300).
+- **Twombly Performance Horse Sale** : June/November sales in Nebraska, offering AQHA horses (5–10 years) with likely Peppy San Badger, Two Eyed Jack, or reining lines for cowboying, VRH, and family use, NRCHA with training ([https://twomblyhorse.com](https://twomblyhorse.com)).
+- **Return to the Remuda Sale**: King Ranch sale with top lines ([https://king-ranch.com](https://king-ranch.com)).
 
 ## References
-| Source | Description |
-|--------|-------------|
-| NRCHA | Official website for Reined Cow Horse standards ([https://www.nrcha.com](https://www.nrcha.com)). |
-| NVRHA | VRH event rules and horse characteristics ([https://www.nvrha.org](https://www.nvrha.org)). |
-| AZVRHA | Regional VRH insights ([https://www.azvrha.com](https://www.azvrha.com)). |
-| Flint Creek Quarter Horses | Montana breeder of AQHA ranch horses ([https://flintcreekquarterhorses.com](https://flintcreekquarterhorses.com)). |
-| Ranch World Ads | Classifieds for ranch/performance horses ([https://www.ranchworldads.com](https://www.ranchworldads.com)). |
-| eHorses | Marketplace for VRH/ranch horses ([https://www.ehorses.com](https://www.ehorses.com)). |
-| Perry Quarter Horses | Kansas breeder for all disciplines ([https://www.perryquarterhorses.com](https://www.perryquarterhorses.com)). |
-| Boyd Ranch, LLC | New Mexico ranch for cow/ranch horses ([https://www.boydranch.net](https://www.boydranch.net)). |
-| King Ranch | Texas breeder with top bloodlines ([https://king-ranch.com](https://king-ranch.com)). |
-| Bar TT Cowhorse | Alberta/Arizona NRCHA breeder ([https://www.bar-tt-cowhorse.com](https://www.bar-tt-cowhorse.com)). |
-| Stock Horse of Texas | Texas ranch horse events ([https://stockhorsetexas.org](https://stockhorsetexas.org)). |
-| AQHA | Breed/event standards ([https://www.aqha.com](https://www.aqha.com)). |
-| Turner Performance Horses | Montana/Arizona performance horses ([https://turnerperformancehorses.com](https://turnerperformancehorses.com)). |
-| Reverse 53 Horses | Texas ranch horses with foundation lines ([https://www.reverse53horses.com](https://www.reverse53horses.com)). |
-| Legacy Ranch Horse Sale | Arizona sale for cowboying/VRH horses ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)). |
+- NRCHA | Official website for Reined Cow Horse standards ([https://www.nrcha.com](https://www.nrcha.com)).
+- NVRHA | VRH event rules and horse characteristics ([https://www.nvrha.org](https://www.nvrha.org)).
+- AZVRHA | Regional VRH insights ([https://www.azvrha.com](https://www.azvrha.com)).
+- Flint Creek Quarter Horses | Montana breeder of AQHA ranch horses ([https://flintcreekquarterhorses.com](https://flintcreekquarterhorses.com)).
+- Ranch World Ads | Classifieds for ranch/performance horses ([https://www.ranchworldads.com](https://www.ranchworldads.com)).
+- eHorses | Marketplace for VRH/ranch horses ([https://www.ehorses.com](https://www.ehorses.com)).
+- Perry Quarter Horses | Kansas breeder for all disciplines ([https://www.perryquarterhorses.com](https://www.perryquarterhorses.com)).
+- Boyd Ranch, LLC | New Mexico ranch for cow/ranch horses ([https://www.boydranch.net](https://www.boydranch.net)).
+- King Ranch | Texas breeder with top bloodlines ([https://king-ranch.com](https://king-ranch.com)).
+- Bar TT Cowhorse | Alberta/Arizona NRCHA breeder ([https://www.bar-tt-cowhorse.com](https://www.bar-tt-cowhorse.com)).
+- Stock Horse of Texas | Texas ranch horse events ([https://stockhorsetexas.org](https://stockhorsetexas.org)).
+- AQHA | Breed/event standards ([https://www.aqha.com](https://www.aqha.com)).
+- Turner Performance Horses | Montana/Arizona performance horses ([https://turnerperformancehorses.com](https://turnerperformancehorses.com)).
+- Reverse 53 Horses | Texas ranch horses with foundation lines ([https://www.reverse53horses.com](https://www.reverse53horses.com)).
+- Legacy Ranch Horse Sale | Arizona sale for cowboying/VRH horses ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)).
+- Diamond-McNabb Ranch Horse Sale | Wyoming sale for cowboying, VRH, NRCHA, family use ([https://www.dmhorses.com](https://www.dmhorses.com)).
+- Twombly Performance Horse Sale | Nebraska sale for cowboying, VRH, family use ([https://twomblyhorse.com](https://twomblyhorse.com)).
 
 ## References for Family-Friendly Horses
-| Source | Description |
-|--------|-------------|
-| K4 Ranches | Arizona breeder for cowboying, VRH, family use via Legacy ([https://k4ranches.com](https://k4ranches.com)). |
-| Legacy Ranch Horse Sale | Arizona sale for cowboying, VRH, family use ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)). |
-| High Plains Ranchers & Breeders Association (HPRBA) | Texas sale for cowboying, VRH, family use ([https://www.hprba.com](https://www.hprba.com)). |
+- K4 Ranches | Arizona breeder for cowboying, VRH, family use via Legacy ([https://k4ranches.com](https://k4ranches.com)).
+- Legacy Ranch Horse Sale | Arizona sale for cowboying, VRH, family use ([https://www.ranchhorsesale.com](https://www.ranchhorsesale.com)).
+- High Plains Ranchers & Breeders Association (HPRBA) | Texas sale for cowboying, VRH, family use ([https://www.hprba.com](https://www.hprba.com)).
+- Diamond-McNabb Ranch Horse Sale | Wyoming sale for cowboying, VRH, family use ([https://www.dmhorses.com](https://www.dmhorses.com)).
+- Twombly Performance Horse Sale | Nebraska sale for cowboying, VRH, family use ([https://twomblyhorse.com](https://twomblyhorse.com)).
 
 ## Key Pedigrees of Horse Legends
 | Sire | Key Traits | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
 |------|------------|--------------------------|----------------------------------------|----------|---------------------|
 | Shining Spark | Reining precision, cow sense | Exceptional in herd/rein/cow work | Strong in all events | Suitable with training | Limited, high-energy |
 | High Brow Cat | Intense cow sense, cutting | Dominant in herd/cow work | Suitable for cutting/cow work | Suitable for cattle work | Limited, high-energy |
-| Peppy San Badger | Cow sense, durability, trainable | Strong in all events | Excels in all events | Excellent for all tasks | Suitable in ranch lines |
-| Colonel Freckles | Cow sense, reining, trainability | Strong in herd/rein/cow work | Versatile across events | Suitable for cattle/roping | Limited, needs calm individuals |
+| Peppy San Badger | Cow sense, durability, trainable | Strong in all events | Excels in all events | Excellent for all tasks | Suitable for family use |
+| Colonel Freckles | Cow sense, cow work, trainability | Strong in herd work, cow work, and reining | Versatile across events | Suitable for cattle/roping | Limited, needs calm individuals |
 | Playgun | Cow sense, versatility | Suitable for herd/cow work | Exceptional in cutting/cow work/riding | Suitable for cattle/roping | Limited, high-energy |
 | Not Ruf At All | Reining prowess, cow sense | Exceptional in rein/cow work | Suitable for reining/cow work | Limited, needs training | Not suitable, performance-focused |
 | Paddys Irish Whiskey | Versatility, smooth gaits, easy-going | Suitable for all events | Excels in riding/trail/cow work | Strong for riding/chores | Suitable, calm |
@@ -324,7 +327,7 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 - **Test the Horse**: Verify maneuvers (reining for NRCHA/VRH, cow work for all, roping/doctoring for cowboying, kid-friendliness for family use). Use a trainer.
 - **Pedigree Check**: Confirm cow sense/versatility (e.g., Shining Spark, Peppy San Badger, Driftwood). Prioritize **Two Eyed Jack**, **Peppy San Badger** for kids.
 - **Budget**: NRCHA/VRH horses $15,000–$50,000+; cowboying/VRH/family horses $5,000–$15,000; NRCHA with kid-safety $15,000–$30,000.
-- **Location**: Focus on Texas, Kansas, New Mexico, Arizona, Montana.
+- **Location**: Focus on Texas, Kansas, New Mexico, Arizona, Montana, Wyoming, Nebraska.
 - **Divisions**: Novice/Limited VRH or ranch-bred horses for beginners; show/work records for experienced riders.
 - **Family Use**: Prioritize AQHA geldings (5–10 years, preferably 8–10) with **Two Eyed Jack**, **Peppy San Badger**, tested for kid-friendliness.
 
@@ -334,10 +337,10 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 | Characteristic | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
 |----------------|--------------------------|----------------------------------------|----------|---------------------|
 | **Breed** | AQHA, APHA | AQHA, APHA, some Appaloosa/Morgan | AQHA, APHA | AQHA, APHA |
-| **Bloodlines** | Shining Spark, High Brow Cat, Peppy San Badger, Colonel Freckles, Not Ruf At All | Peppy San Badger, Shining Spark, Playgun, Colonel Freckles, Paddys Irish Whiskey | Driftwood, Hancock, Two Eyed Jack, Peppy San Badger, King | Two Eyed Jack, Peppy San Badger, Driftwood, Paddys Irish Whiskey, Hancock |
+| **Bloodlines** | Shining Spark, High Brow Cat, Peppy San Badger, Colonel Freckles, Not Ruf At All | Peppy San Badger, Shining Spark, Playgun, Colonel Freckles, Paddys Irish Whiskey | Driftwood, Hancock, Two Eyed Jack, Peppy San Badger, King | Two Eyed Jack, Peppy San Badger, Driftwood, Paddys Irish Whiskey |
 | **Conformation** | Compact, muscular, strong hindquarters, good bone | Balanced, structurally correct, muscling, strong feet | Stocky, strong-boned, robust hindquarters, sturdy feet | Balanced, sturdy, 14.2–15.2 hands |
 | **Height** | 14.2–15.2 hands | 14.3–15.3 hands | 14.3–15.3 hands | 14.2–15.2 hands, smaller easier for kids |
-| **Athleticism** | High agility for spins, slides, fence work; quick-footed | Quick for reining/cow work, smooth-gaited | Agile for cattle/roping, steady for rides | Steady, gentle for trail/tasks |
+| **Athleticism** | High agility for spins, slides, fence work; quick-footed | Quick for reining/cow work, smooth-gaited | Agile for cattle/roping, steady for rides | Steady, gentle for trail/light tasks |
 | **Temperament** | Calm, responsive, cow sense, composed | Calm, willing, trainable, relaxes for trail/riding | Calm, steady, willing, cow sense | Exceptionally calm, patient, forgiving |
 | **Training/Skills** | Reining patterns, cow work, herd work | Reining, cow work, cutting, trail, smooth gaits | Cattle work, roping, doctoring, terrain navigation | Well-broke, desensitized, novice-friendly |
 | **Preferences** | Geldings; mares with good temperament; NRCHA experience | All-around; geldings/mares; AQHA VRH/SHTX experience | Geldings; mares if calm; ranch experience | Geldings aged 5–10 years, preferably 8–10 for settled temperaments |
@@ -354,24 +357,24 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 | eHorses | Marketplace for VRH/ranch horses | VRH, Cowboying | [https://www.ehorses.com](https://www.ehorses.com) |
 | AQHA/NRCHA Events | Network at NRCHA/AQHA VRH events | All disciplines | [https://www.nrcha.com](https://www.nrcha.com), [https://www.aqha.com](https://www.aqha.com) |
 | Stock Horse of Texas | Texas ranch horse events | VRH, Cowboying | [https://stockhorsetexas.org](https://stockhorsetexas.org) |
+| High Plains Ranchers & Breeders Association (HPRBA) | Texas sale for cowboying, VRH, some NRCHA, family use | Cowboying, VRH, some NRCHA, Family Use | [https://www.hprba.com](https://www.hprba.com), 806-674-7337 |
+| Diamond-McNabb Ranch Horse Sale | June/September sales in Douglas, Wyoming, offering AQHA horses (5–10 years) with Peppy San Badger, Two Eyed Jack, High Brow Cat, bloodlines for cowboying, VRH, NRCHA with training, and family use | Cowboying, VRH, NRCHA with training, Family Use | [https://www.dmhorses.com](https://www.dmhorses.com), 307-254-7260 |
+| Legacy Ranch Horse Sale | Arizona sale for cowboying, VRH, some NRCHA, family use | Cowboying, VRH, some NRCHA, Family Use | [https://www.ranchhorsesale.com](https://www.ranchhorsesale.com), 520-360-7300 |
+| Twombly Performance Horse Sale | June/November sales in Nebraska, offering AQHA horses (5–10 years) with likely Peppy San Badger, Two Eyed Jack, or reining lines for cowboying, VRH, and family use, NRCHA with training | Cowboying, VRH, Family Use, NRCHA with training | [https://twomblyhorse.com](https://twomblyhorse.com) |
 | Return to the Remuda Sale | King Ranch sale with top lines | All disciplines | [https://king-ranch.com](https://king-ranch.com) |
-| Turner Performance Horses | Montana/Arizona performance horses | All disciplines | [https://turnerperformancehorses.com](https://turnerperformancehorses.com), 406-381-2347 |
-| Reverse 53 Horses | Texas AQHA ranch horses | Cowboying, VRH | [https://www.reverse53horses.com](https://www.reverse53horses.com) |
-| Legacy Ranch Horse Sale | Arizona sale for cowboying, VRH, NRCHA, family use | Cowboying, VRH, some NRCHA, Family Use | [https://www.ranchhorsesale.com](https://www.ranchhorsesale.com), 520-360-9524 |
-| High Plains Ranchers & Breeders Association (HPRBA) | Texas sale for cowboying, VRH, NRCHA, family use | Cowboying, VRH, some NRCHA, Family Use | [https://www.hprba.com](https://www.hprba.com), 806-674-7337 |
 
 ### Table 3: Key Pedigrees of Horse Legends
 | Sire | Key Traits | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
 |------|------------|--------------------------|----------------------------------------|----------|---------------------|
 | Shining Spark | Reining precision, cow sense | Exceptional in herd/rein/cow work | Strong in all events | Suitable with training | Limited, high-energy |
 | High Brow Cat | Intense cow sense, cutting | Dominant in herd/cow work | Suitable for cutting/cow work | Suitable for cattle work | Limited, high-energy |
-| Peppy San Badger | Cow sense, durability, trainable | Strong in all events | Excels in all events | Excellent for all tasks | Suitable in ranch lines |
-| Colonel Freckles | Cow sense, reining, trainability | Strong in herd/rein/cow work | Versatile across events | Suitable for cattle/roping | Limited, needs calm individuals |
-| Playgun | Cow sense, versatility | Suitable for herd/cow work | Exceptional in cutting/cow work/riding | Suitable for cattle/roping | Limited, high-energy |
-| Not Ruf At All | Reining prowess, cow sense | Exceptional in rein/cow work | Suitable for reining/cow work | Limited, needs training | Not suitable, performance-focused |
+| Peppy San Badger | Cow sense, durability, trainable | Strong in all events | Excels in all events | Excellent for all tasks | Suitable for family use |
+| Colonel Freckles | Cow sense, cow work, trainability | Strong in herd work, cow work, and reining | Versatile across events | Suitable for cattle/roping | Limited, needs calm individuals |
+| Playgun | Cow sense, versatility | Suitable for herd/cow work | Exceptional in cutting/cow work/riding | Suitable for ranch roping | Limited, high-energy |
+| Not Rufous | NA | NA | NA | NA | NA |
 | Paddys Irish Whiskey | Versatility, smooth gaits, easy-going | Suitable for all events | Excels in riding/trail/cow work | Strong for riding/chores | Suitable, calm |
 | Driftwood | Cow sense, endurance, steady | Suitable with training | Strong with training, especially cutting | Excellent for roping/doctoring | Suitable, reliable when mature |
 | Hancock | Ruggedness, stamina, calm | Suitable with training | Strong with training, cow work | Excellent for all tasks | Suitable, dependable |
 | Two Eyed Jack | Versatility, calm, roping | Suitable with training | Strong in riding/cow work/roping | Excellent for roping/doctoring | Highly suitable, gentle |
 
-This guide, as of June 21, 2025, provides a comprehensive resource for selecting horses for Reined Cow Horse, Versatility Ranch Horse, Cowboying, and Family Use with Kids, including key pedigrees and training recommendations. For specific needs or budgets, consult trainers or breeders directly through listed sources.
+This guide, as of June 22, 2025, provides a comprehensive resource for selecting horses for Reined Cow Horse, Versatility Ranch Horse, Cowboying, and Family Use with Kids, including key pedigrees and training recommendations. For specific needs or budgets, consult trainers or breeders directly through listed sources.
