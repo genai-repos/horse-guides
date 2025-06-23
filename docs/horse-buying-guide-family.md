@@ -310,6 +310,7 @@ In addition to NRCHA, VRH, and cowboying requirements, family-friendly horses sh
 - Twombly Performance Horse Sale | Nebraska sale for cowboying, VRH, family use ([https://twomblyhorse.com](https://twomblyhorse.com)).
 
 ## Key Pedigrees of Horse Legends
+
 | Sire | Key Traits | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
 |------|------------|--------------------------|----------------------------------------|----------|---------------------|
 | Shining Spark | Reining precision, cow sense | Exceptional in herd/rein/cow work | Strong in all events | Suitable with training | Limited, high-energy |

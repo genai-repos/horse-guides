@@ -241,6 +241,7 @@ Cowboying horses aged 5–10 years with **Two Eyed Jack**, **Peppy San Badger**,
 - Twombly Performance Horse Sale | Nebraska sale for cowboying, VRH, NRCHA ([https://twomblyhorse.com](https://twomblyhorse.com)).
 
 ## Key Pedigrees of Horse Legends
+
 | Sire | Key Traits | Reined Cow Horse (NRCHA) | Versatility Ranch Horse (NVRHA/AZVRHA) | Cowboying | Family Use with Kids |
 |------|------------|--------------------------|----------------------------------------|----------|---------------------|
 | Shining Spark | Reining precision, cow sense | Exceptional in herd/rein/cow work | Strong in all events | Suitable with training | Limited, high-energy |
